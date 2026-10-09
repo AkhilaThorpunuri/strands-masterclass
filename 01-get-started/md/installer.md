@@ -4,13 +4,11 @@
 
 ## Contents
 
-- Installing Strands Agents
 - Creating a Python virtual environment
 - Installing dependencies
 - Verifying the installation
-- Running the first Strands Agent
+- Installing Strands Agents
 - Installation checklist
-- Troubleshooting common issues
 
 ## Overview
 
