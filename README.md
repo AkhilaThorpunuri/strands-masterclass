@@ -48,5 +48,5 @@ The Masterclass progressively moves from creating individual Strands agents to b
 ## Contents
 
 ### 01. Getting Started
-- [Installation](./01-get-started/code/md/installer.md)
+- [Installation](./01-get-started/code/md/installer.md01-get-started\code\md\installer.md)
 
